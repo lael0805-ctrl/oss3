@@ -1,5 +1,7 @@
 # a.md
+
 hanyang
 university
-erica
+AI Department
 department of AI
+
